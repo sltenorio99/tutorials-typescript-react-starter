@@ -1,4 +1,8 @@
+## Important Information
+**Mirror push of original repository hosted on [Gitlab](https://gitlab.com/sltenorio99_tutorials/typescript-react-starter)**.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
